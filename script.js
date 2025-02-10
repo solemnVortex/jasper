@@ -244,10 +244,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .fromTo(".top-bar", { scaleX: 0 }, { scaleX: 1 });
 
   const certificates = [
-    "/images/cert-1-min.jpg",
-    "/images/cert-2-min.jpg",
-    "/images/cert-3-min.jpg",
-    "/images/cert-4-min.jpg",
+    "images/cert-1-min.jpg",
+    "images/cert-2-min.jpg",
+    "images/cert-3-min.jpg",
+    "images/cert-4-min.jpg",
   ];
 
   gsap
