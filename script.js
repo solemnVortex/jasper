@@ -254,6 +254,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .timeline({ duration: 3, repeat: -1 })
     .to(".cert-main", {
       opacity: 0,
+      y: -100,
     })
     .set(".cert-main", {
       attr: {
@@ -262,10 +263,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
     })
     .to(".cert-main", {
       opacity: 1,
+      y: 0,
     })
     .to(".cert-main", {
       delay: 2,
       opacity: 0,
+      y: -100,
     })
     .set(".cert-main", {
       attr: {
@@ -274,10 +277,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
     })
     .to(".cert-main", {
       opacity: 1,
+      y: 0,
     })
     .to(".cert-main", {
       delay: 2,
       opacity: 0,
+      y: -100,
     })
     .set(".cert-main", {
       attr: {
@@ -286,10 +291,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
     })
     .to(".cert-main", {
       opacity: 1,
+      y: 0,
     })
     .to(".cert-main", {
       delay: 2,
       opacity: 0,
+      y: -100,
     })
     .set(".cert-main", {
       attr: {
@@ -298,6 +305,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     })
     .to(".cert-main", {
       opacity: 1,
+      y: 0,
     });
 });
 
