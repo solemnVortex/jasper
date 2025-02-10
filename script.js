@@ -88,8 +88,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS"],
       type: "Front End",
       link: "https://solemnvortex.github.io/p-media/",
-      wideImage: "/images/pmedia-wide.webp",
-      mockImage: "/images/pmedia-mock.webp",
+      wideImage: "images/pmedia-wide.webp",
+      mockImage: "images/pmedia-mock.webp",
     },
     {
       title: "Login Page",
@@ -97,8 +97,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS"],
       type: "Front End",
       link: "https://solemnvortex.github.io/simple-login/",
-      wideImage: "/images/login-wide.webp",
-      mockImage: "/images/login-mock.webp",
+      wideImage: "images/login-wide.webp",
+      mockImage: "images/login-mock.webp",
     },
     {
       title: "ATM Interface",
@@ -107,8 +107,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/atm-ui/",
-      wideImage: "/images/ATM-wide.webp",
-      mockImage: "/images/ATM-mock.webp",
+      wideImage: "images/ATM-wide.webp",
+      mockImage: "images/ATM-mock.webp",
     },
     {
       title: "Basic Calculator",
@@ -117,8 +117,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/basic-calculator/",
-      wideImage: "/images/calc-wide.webp",
-      mockImage: "/images/calc-mock.webp",
+      wideImage: "images/calc-wide.webp",
+      mockImage: "images/calc-mock.webp",
     },
     {
       title: "Pixel Editor",
@@ -127,8 +127,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/pixel-editor/",
-      wideImage: "/images/pixelEdtr-wide.webp",
-      mockImage: "/images/pixelEdtr-mock.webp",
+      wideImage: "images/pixelEdtr-wide.webp",
+      mockImage: "images/pixelEdtr-mock.webp",
     },
     {
       title: "Simple E-commerce",
@@ -137,8 +137,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/simple-ecommerce/pages/home.html",
-      wideImage: "/images/simpleEcommerce-wide.webp",
-      mockImage: "/images/simpleEcommerce-mock.webp",
+      wideImage: "images/simpleEcommerce-wide.webp",
+      mockImage: "images/simpleEcommerce-mock.webp",
     },
     {
       title: "Form Builder",
@@ -147,8 +147,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/simple-form-builder/",
-      wideImage: "/images/simpleFormBuilder-wide.webp",
-      mockImage: "/images/simpleFormBuilder-mock.webp",
+      wideImage: "images/simpleFormBuilder-wide.webp",
+      mockImage: "images/simpleFormBuilder-mock.webp",
     },
     {
       title: "Simple Quiz App",
@@ -157,8 +157,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT"],
       type: "Front End",
       link: "https://solemnvortex.github.io/simple-quiz/",
-      wideImage: "/images/simpleQuizApp-wide.webp",
-      mockImage: "/images/simpleQuizApp-mock.webp",
+      wideImage: "images/simpleQuizApp-wide.webp",
+      mockImage: "images/simpleQuizApp-mock.webp",
     },
     {
       title: "Employee Registration",
@@ -167,8 +167,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
       stack: ["HTML", "CSS", "JAVASCRIPT", "PHP"],
       type: "Full Stack",
       link: "http://employee-registration.infinityfreeapp.com/",
-      wideImage: "/images/employeeRegistration-wide.webp",
-      mockImage: "/images/employeeRegistration-mock.webp",
+      wideImage: "images/employeeRegistration-wide.webp",
+      mockImage: "images/employeeRegistration-mock.webp",
     },
   ];
   let projectCount = 0;
